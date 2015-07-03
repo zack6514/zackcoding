@@ -1,0 +1,1 @@
+这是我最终结果生成的一些文件，你在执行前需要删除相应的.caffemode，.solverstate及对应的features和lmdb文件。然后按照blog的步骤一步一步来就可以了。

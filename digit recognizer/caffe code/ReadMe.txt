@@ -1,0 +1,3 @@
+这是对caffe源码进行了修改以适应需求。
+conver_data_to_lmdb.cpp为将kaggle中的数据转为lmdb的格式
+extract_featuures.cpp为将特征提取存放入txt文件中。
